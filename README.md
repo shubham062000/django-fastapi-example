@@ -2,9 +2,7 @@
 
 
 pip install -r requirements.txt
-cd django_fastapi/
-python manage.py migrate
-python manage.py createsuperuser 
+
 
 
 ## Running
